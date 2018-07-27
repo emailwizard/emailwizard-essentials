@@ -69,6 +69,9 @@
 				<div class="footer">
 					<table width="100%">
 						<tr>
+							<td class="aligncenter content-block">Follow <a href="http://twitter.com/emailwizard">@emailwizard</a> on Twitter.</td>
+						</tr>
+						<tr>
 							<td class="aligncenter content-block">Follow <a href="http://twitter.com/mail_gun">@Mail_Gun</a> on Twitter.</td>
 						</tr>
 					</table>
