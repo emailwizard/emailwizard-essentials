@@ -1,0 +1,11 @@
+{
+  "link": {
+    "url": "http://google.com",
+    "text": "Browse world"
+  },
+  "sections": [
+     "You have <b>1 free</b> report left. Please upgrade",
+     "Add your credit card now to upgrade your account to a premium plan to ensure you don't miss out on any reports."
+  ],
+  "warning": "You're approaching your limit. Please upgrade."
+}

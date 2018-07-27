@@ -59,23 +59,19 @@
 		<td></td>
 		<td class="container" width="600">
 			<div class="content">
-				<table class="main" width="100%" cellpadding="0" cellspacing="0" itemprop="action" itemscope itemtype="http://schema.org/ConfirmAction">
-					<tr>
-						<td class="content-wrap">
-              {% yield %}
-						</td>
-					</tr>
-				</table>
+        {% yield %}
 				<div class="footer">
 					<table width="100%">
 						<tr>
-							<td class="aligncenter content-block">Follow <a href="http://twitter.com/emailwizard">@emailwizard</a> on Twitter.</td>
-						</tr>
-						<tr>
-							<td class="aligncenter content-block">Follow <a href="http://twitter.com/mail_gun">@Mail_Gun</a> on Twitter.</td>
+							<td class="aligncenter content-block">
+                Follow <a href="http://twitter.com/emailwizard">@emailwizard</a> on Twitter.
+                <br />
+                Follow <a href="http://twitter.com/mail_gun">@Mail_Gun</a> on Twitter.
+              </td>
 						</tr>
 					</table>
-				</div></div>
+				</div>
+      </div>
 		</td>
 		<td></td>
 	</tr>

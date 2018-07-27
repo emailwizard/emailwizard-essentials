@@ -1,4 +1,9 @@
-<table class="main" width="100%" cellpadding="0" cellspacing="0" itemprop="action" itemscope itemtype="http://schema.org/ConfirmAction">
+<table class="main" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="alert alert-warning">
+      {{ warning }}
+    </td>
+  </tr>
   <tr>
     <td class="content-wrap">
       <table width="100%" cellpadding="0" cellspacing="0">
