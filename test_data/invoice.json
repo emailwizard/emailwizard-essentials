@@ -1,0 +1,17 @@
+{
+  "total_price": "$33.98",
+  "title": "Thanks for using Acme Inc.",
+  "items": [
+    { "name": "Service 1", "price": "$ 19.99" },
+    { "name": "Service 2", "price": "$ 9.99" },
+    { "name": "Service 3", "price": "$ 4.00" }
+  ],
+  "header": "Thanks for using Acme Inc.",
+  "address": "John Doe<br />Invoice #123<br />June 01 2018",
+  "sections": [
+     "<a href=\"https://www.emailwizard.io\">View your order details</a>",
+     "Acme Inc. 123 Van Ness, San Francisco 94102"
+  ]
+}
+
+
