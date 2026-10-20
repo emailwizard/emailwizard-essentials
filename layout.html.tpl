@@ -7,7 +7,7 @@
 <link href="styles.css" media="all" rel="stylesheet" type="text/css" />
 
 <style>
-  {% include 'styles' %}
+  {% include '_styles' %}
 </style>
 <style>
   @media only screen and (max-width: 640px) {
